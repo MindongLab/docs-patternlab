@@ -8,3 +8,20 @@ Pattern Lab for MindongLab Documentations.
    ```
     > npm install -g gulp-cli
    ```
+
+## Usage
+
+### Initialise
+  ```
+   > npm install
+  ```
+
+### Live Preview
+  ```
+   > gulp patternlab:serve
+  ```
+
+### Build
+  ```
+   > gulp patternlab:build
+  ```
